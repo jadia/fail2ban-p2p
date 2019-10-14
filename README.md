@@ -18,12 +18,14 @@ See [http://fail2ban-p2p.comuno.net](http://fail2ban-p2p.comuno.net) or the fold
 
 ## Directory structure
 
-> config            sample configuration  
-> debian            necessary files for creating packages for debian  
-> doc/              home of all documentation  
-> fail2ban-p2p/     classes and functions  
-> scripts/          scripts for building fail2ban-p2p releases  
-> tests/            testcases, if any  
+```
+config          sample configuration  
+debian          necessary files for creating packages for debian  
+doc/            home of all documentation  
+fail2ban-p2p/   classes and functions  
+scripts/        scripts for building fail2ban-p2p releases  
+tests/          testcases, if any  
+```
 
 ## Short coding styleguide
 
